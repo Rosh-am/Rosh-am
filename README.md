@@ -15,7 +15,7 @@
 
 > **I turn machine learning ideas and messy real-world data into systems that actually work.**
 
-I'm a pre-final year **Computer Science Engineering** student at **VIT-AP University** (CGPA 7.88), specializing in **Machine Learning, Computer Vision, and Generative AI** — with a growing full-stack skill set to ship what I build. IBM-certified in **Advanced Generative AI**, AWS Academy trained in **Cloud Foundations & Cloud Architecting**.
+I'm a final year **Computer Science Engineering** student at **VIT-AP University** (CGPA 7.88), specializing in **Machine Learning, Computer Vision, and Generative AI** — with a growing full-stack skill set to ship what I build. IBM-certified in **Advanced Generative AI**, AWS Academy trained in **Cloud Foundations & Cloud Architecting**.
 
 `MACHINE LEARNING` `COMPUTER VISION` `GENERATIVE AI` `REINFORCEMENT LEARNING` `FULL-STACK`
 
